@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ウィ・ウィル・ロック・ユー",
+  "base_artist": "クイーン",
+  "createdAt": "2026-02-06T08:05:23.935973Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "We Will Rock You",
+      "artist": "Queen",
+      "has_synced": false,
+      "path": "select/pl_01_We_Will_Rock_You_Queen.txt"
+    }
+  ]
+}
